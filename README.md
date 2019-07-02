@@ -1,2 +1,2 @@
 # performance_learn
-just record for learning
+notes for performance-learning
